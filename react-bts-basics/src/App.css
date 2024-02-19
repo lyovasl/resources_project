@@ -5,6 +5,14 @@
   text-align: center;
 }
 
+body {
+  color: #000000;
+}
+
+div {
+  background-color: rgb(54, 93, 102);
+}
+/* 
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +47,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
